@@ -9,9 +9,6 @@ I like developing anything I can get my hands on,always tinkering with new proje
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dylan411&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dylan411&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dylan411&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Dylan411&icon=0&color=0)](https://visitcount.itsvg.in)
 
